@@ -24,19 +24,4 @@ These instructions will get you a copy of the project up and running on your loc
 * Start MySQL server
 * Run the [main.py](main.py) to start the GUI
 
-#### :star:+1 If you've found this interesting :sparkles:
 
-### :black_nib: Authors
-  - **Souhardhya Paul** - *Initial author(2021)* - [xevozen](https://github.com/xevozen)
-
-<div style="display: inline-block; width: 150px; padding: 5px; margin: 3px;">
-	<center>
-		<img src="https://avatars0.githubusercontent.com/u/47949303?s=460&v=4" alt="Profile Pic" width="120px">
-		<br>
-		<label style="font-size: 18px; font-weight: bold;">Souhardhya Paul</label>
-		<br>
-	</center>
-</div>
-
-### :balance_scale: License
-[GPLv3 License](https://choosealicense.com/licenses/gpl-3.0/)
