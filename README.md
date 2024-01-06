@@ -22,6 +22,6 @@ These instructions will get you a copy of the project up and running on your loc
 ### :gear: Configuration
 * Import the [SQL database](database/nsec_db.sql) into your phpmyadmin console panel.
 * Start MySQL server
-* Run the [main.py](main.py) to start the GUI
+* Run the [main.py](main.exe) to start the GUI
 
 
