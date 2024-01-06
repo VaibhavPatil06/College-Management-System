@@ -14,7 +14,7 @@ import random
 import string
 import smtplib
 import ssl
-from PIL import Image, ImageTk 
+
 root =Tk()
 root.title("Home Page")
 root.geometry("1080x650+100+20")
