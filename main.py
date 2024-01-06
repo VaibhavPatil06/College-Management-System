@@ -5,12 +5,10 @@ from PIL import Image, ImageTk ,ImageFilter
 import os
 import mysql.connector
 import datetime
-import cv2,os
-import shutil
+import cv2
 import csv
 import numpy as np
 import pandas as pd
-import ast
 import math
 import random
 import string
